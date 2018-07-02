@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"    
+     xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name>Green B</name>
+        
+                                    
+        <description><![CDATA[<br/><p> </p><p><br/>Converted using <b><a href='http://gpx2kml.com' title='Go to gpx2kml.com'>gpx2kml.com</a></b></p><br/>]]></description>
+        <visibility>1</visibility>
+        <open>1</open>
+        
+                <Style id="red">
+            <LineStyle>
+            <color>C81400FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_red">
+            <LineStyle>
+            <color>961400FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="green">
+            <LineStyle>
+            <color>C878FF00</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_green">
+            <LineStyle>
+            <color>9678FF00</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="blue">
+            <LineStyle>
+            <color>C8FF7800</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_blue">
+            <LineStyle>
+            <color>96FF7800</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="cyan">
+            <LineStyle>
+            <color>C8F0FF14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_cyan">
+            <LineStyle>
+            <color>96F0FF14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="orange">
+            <LineStyle>
+            <color>C81478FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_orange">
+            <LineStyle>
+            <color>961478FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="dark_green">
+            <LineStyle>
+            <color>C8008C14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_dark_green">
+            <LineStyle>
+            <color>96008C14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="purple">
+            <LineStyle>
+            <color>C8FF7878</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_purple">
+            <LineStyle>
+            <color>96FF7878</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="pink">
+            <LineStyle>
+            <color>C8A078F0</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_pink">
+            <LineStyle>
+            <color>96A078F0</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="brown">
+            <LineStyle>
+            <color>C8143C96</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_brown">
+            <LineStyle>
+            <color>96143C96</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="dark_blue">
+            <LineStyle>
+            <color>C8F01414</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_dark_blue">
+            <LineStyle>
+            <color>96F01414</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        
+                
+        <Folder>
+            <name>Waypoints</name>
+            <description>A list of waypoints</description>
+            <visibility>1</visibility>
+            <open>0</open>
+                                                                                
+            
+            <Placemark>
+                <name>Release Location For Tag Colour Green (B)</name>                      
+                <visibility>1</visibility>            
+                <open>0</open>                        
+                                                
+                <description>
+                    No info available                </description>       
+                <LookAt>
+                    <longitude>145.81075</longitude>
+                    <latitude>-38.707217</latitude>
+                    <range>500</range>
+                    <tilt>45</tilt>
+                    <heading>0</heading>
+                </LookAt>
+                <Point>
+                    <coordinates>
+                        145.81075,-38.707217,2                        
+                    </coordinates>
+                </Point>
+            </Placemark>
+                            
+        </Folder>
+        
+                
+                
+        <Folder>
+            <name>Tracks</name>
+            <description>A list of tracks</description>
+            <visibility>1</visibility>            
+            <open>0</open>
+                                                            
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#red</styleUrl>
+                    <name>green B151 person 2</name>
+                    <description>Track no. 2</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.812139,-38.706556,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#green</styleUrl>
+                    <name>green B32 person 2</name>
+                    <description>Track no. 3</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.812139,-38.706556,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#blue</styleUrl>
+                    <name>green B193 person 2</name>
+                    <description>Track no. 4</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.812139,-38.706556,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#cyan</styleUrl>
+                    <name>green B207 person 3</name>
+                    <description>Track no. 6</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.811565,-38.706075,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#orange</styleUrl>
+                    <name>green B123 person 4</name>
+                    <description>Track no. 7</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.811904,-38.70692,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#dark_green</styleUrl>
+                    <name>green B123 person 5</name>
+                    <description>Track no. 8</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.811388,-38.705789,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#purple</styleUrl>
+                    <name>green B272 person 7</name>
+                    <description>Track no. 10</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.811392,-38.7068605,2 145.812034,-38.706504,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#pink</styleUrl>
+                    <name>green B313 person 8</name>
+                    <description>Track no. 12</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.8112255,-38.7067335,2 145.811701,-38.70625,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#brown</styleUrl>
+                    <name>green B314 person 8</name>
+                    <description>Track no. 13</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.8108285,-38.706336,2 145.810907,-38.705455,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#dark_blue</styleUrl>
+                    <name>green B247 person 10</name>
+                    <description>Track no. 17</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.8118,-38.7069,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#red</styleUrl>
+                    <name>green B293 person 10</name>
+                    <description>Track no. 18</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.8132,-38.7078,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#green</styleUrl>
+                    <name>green B166 person 11</name>
+                    <description>Track no. 19</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.811148,-38.70708,2 145.811546,-38.706943,2 145.811944,-38.706806,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#blue</styleUrl>
+                    <name>green B322 person 14</name>
+                    <description>Track no. 22</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.810813857143,-38.7070095714286,2 145.810877714286,-38.7068021428571,2 145.810941571429,-38.7065947142857,2 145.811005428571,-38.7063872857143,2 145.811069285714,-38.7061798571429,2 145.811133142857,-38.7059724285714,2 145.811197,-38.705765,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#cyan</styleUrl>
+                    <name>green B218 person 14</name>
+                    <description>Track no. 23</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.810798571429,-38.7069761428571,2 145.810847142857,-38.7067352857143,2 145.810895714286,-38.7064944285714,2 145.810944285714,-38.7062535714286,2 145.810992857143,-38.7060127142857,2 145.811041428571,-38.7057718571429,2 145.81109,-38.705531,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#orange</styleUrl>
+                    <name>green B279 person 16</name>
+                    <description>Track no. 25</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.810931571429,-38.707117,2 145.811113142857,-38.707017,2 145.811294714286,-38.706917,2 145.811476285714,-38.706817,2 145.811657857143,-38.706717,2 145.811839428571,-38.706617,2 145.812021,-38.706517,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#dark_green</styleUrl>
+                    <name>green B10 person 17</name>
+                    <description>Track no. 26</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.810847769231,-38.7071631538462,2 145.810945538462,-38.7071093076923,2 145.811043307692,-38.7070554615385,2 145.811141076923,-38.7070016153846,2 145.811238846154,-38.7069477692308,2 145.811336615385,-38.7068939230769,2 145.811434384615,-38.7068400769231,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#purple</styleUrl>
+                    <name>green B171 person 18</name>
+                    <description>Track no. 27</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.81087225,-38.7072263125,2 145.8109945,-38.707235625,2 145.81111675,-38.7072449375,2 145.811239,-38.70725425,2 145.81136125,-38.7072635625,2 145.8114835,-38.707272875,2 145.81160575,-38.7072821875,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#pink</styleUrl>
+                    <name>green B180 person 19</name>
+                    <description>Track no. 28</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.8107516875,-38.7071040625,2 145.810753375,-38.706991125,2 145.8107550625,-38.7068781875,2 145.81075675,-38.70676525,2 145.8107584375,-38.7066523125,2 145.810760125,-38.706539375,2 145.8107618125,-38.7064264375,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#brown</styleUrl>
+                    <name>green B361 person 25</name>
+                    <description>Track no. 35</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.810805882353,-38.7071571764706,2 145.810861764706,-38.7070973529412,2 145.810917647059,-38.7070375294118,2 145.810973529412,-38.7069777058824,2 145.811029411765,-38.7069178823529,2 145.811085294118,-38.7068580588235,2 145.811141176471,-38.7067982352941,2 145.811197058824,-38.7067384117647,2 145.811252941176,-38.7066785882353,2 145.811308823529,-38.7066187647059,2 145.811364705882,-38.7065589411765,2 145.811420588235,-38.7064991176471,2 145.811476470588,-38.7064392941176,2 145.811532352941,-38.7063794705882,2 145.811588235294,-38.7063196470588,2 145.811644117647,-38.7062598235294,2 145.8117,-38.7062,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#dark_blue</styleUrl>
+                    <name>green B113 person 25</name>
+                    <description>Track no. 36</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.810795652174,-38.7071771304348,2 145.810841304348,-38.7071372608696,2 145.810886956522,-38.7070973913043,2 145.810932608696,-38.7070575217391,2 145.81097826087,-38.7070176521739,2 145.811023913044,-38.7069777826087,2 145.811069565217,-38.7069379130435,2 145.811115217391,-38.7068980434782,2 145.811160869565,-38.706858173913,2 145.811206521739,-38.7068183043478,2 145.811252173913,-38.7067784347826,2 145.811297826087,-38.7067385652173,2 145.811343478261,-38.7066986956521,2 145.811389130435,-38.7066588260869,2 145.811434782609,-38.7066189565217,2 145.811480434783,-38.7065790869565,2 145.811526086957,-38.7065392173912,2 145.811571739131,-38.706499347826,2 145.811617391305,-38.7064594782608,2 145.811663043478,-38.7064196086956,2 145.811708695652,-38.7063797391304,2 145.811754347826,-38.7063398695651,2 145.8118,-38.7063,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#red</styleUrl>
+                    <name>green B41 person 26</name>
+                    <description>Track no. 38</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.810763869565,-38.7071458695652,2 145.81077773913,-38.7070747391304,2 145.810791608696,-38.7070036086957,2 145.810805478261,-38.7069324782609,2 145.810819347826,-38.7068613478261,2 145.810833217391,-38.7067902173913,2 145.810847086956,-38.7067190869565,2 145.810860956522,-38.7066479565217,2 145.810874826087,-38.706576826087,2 145.810888695652,-38.7065056956522,2 145.810902565217,-38.7064345652174,2 145.810916434783,-38.7063634347826,2 145.810930304348,-38.7062923043478,2 145.810944173913,-38.706221173913,2 145.810958043478,-38.7061500434783,2 145.810971913043,-38.7060789130435,2 145.810985782609,-38.7060077826087,2 145.810999652174,-38.7059366521739,2 145.811013521739,-38.7058655217391,2 145.811027391304,-38.7057943913043,2 145.811041260869,-38.7057232608696,2 145.811055130435,-38.7056521304348,2 145.811069,-38.705581,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#green</styleUrl>
+                    <name>green B309 person 27</name>
+                    <description>Track no. 40</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.810782083333,-38.7071760416667,2 145.810814166667,-38.7071350833333,2 145.81084625,-38.707094125,2 145.810878333333,-38.7070531666667,2 145.810910416667,-38.7070122083333,2 145.8109425,-38.70697125,2 145.810974583333,-38.7069302916666,2 145.811006666667,-38.7068893333333,2 145.81103875,-38.706848375,2 145.811070833333,-38.7068074166666,2 145.811102916667,-38.7067664583333,2 145.811135,-38.7067255,2 145.811167083333,-38.7066845416666,2 145.811199166667,-38.7066435833333,2 145.81123125,-38.706602625,2 145.811263333333,-38.7065616666666,2 145.811295416667,-38.7065207083333,2 145.8113275,-38.7064797499999,2 145.811359583333,-38.7064387916666,2 145.811391666667,-38.7063978333333,2 145.81142375,-38.7063568749999,2 145.811455833333,-38.7063159166666,2 145.811487916667,-38.7062749583333,2 145.81152,-38.706234,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#blue</styleUrl>
+                    <name>green B81 person 28</name>
+                    <description>Track no. 41</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.811220692308,-38.7075890769231,2 145.811691384615,-38.7079611538462,2 145.812162076923,-38.7083332307692,2 145.812632769231,-38.7087053076923,2 145.813103461538,-38.7090773846154,2 145.813574153846,-38.7094494615385,2 145.814044846154,-38.7098215384615,2 145.814515538462,-38.7101936153846,2 145.814986230769,-38.7105656923077,2 145.815456923077,-38.7109377692308,2 145.815927615385,-38.7113098461539,2 145.816398307692,-38.7116819230769,2 145.816869,-38.712054,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#cyan</styleUrl>
+                    <name>green B409 person 38</name>
+                    <description>Track no. 53</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.810794363636,-38.7071711363636,2 145.810838727273,-38.7071252727273,2 145.810883090909,-38.7070794090909,2 145.810927454545,-38.7070335454545,2 145.810971818182,-38.7069876818182,2 145.811016181818,-38.7069418181818,2 145.811060545455,-38.7068959545454,2 145.811104909091,-38.7068500909091,2 145.811149272727,-38.7068042272727,2 145.811193636364,-38.7067583636363,2 145.811238,-38.7067125,2 145.811282363636,-38.7066666363636,2 145.811326727273,-38.7066207727272,2 145.811371090909,-38.7065749090909,2 145.811415454545,-38.7065290454545,2 145.811459818182,-38.7064831818181,2 145.811504181818,-38.7064373181818,2 145.811548545455,-38.7063914545454,2 145.811592909091,-38.706345590909,2 145.811637272727,-38.7062997272727,2 145.811681636364,-38.7062538636363,2 145.811726,-38.706208,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#orange</styleUrl>
+                    <name>green B412 person 40</name>
+                    <description>Track no. 56</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.811406956522,-38.707836,2 145.812063913043,-38.708455,2 145.812720869565,-38.709074,2 145.813377826087,-38.709693,2 145.814034782609,-38.710312,2 145.81469173913,-38.710931,2 145.815348695652,-38.71155,2 145.816005652174,-38.712169,2 145.816662608696,-38.712788,2 145.817319565217,-38.713407,2 145.817976521739,-38.714026,2 145.818633478261,-38.714645,2 145.819290434783,-38.715264,2 145.819947391304,-38.715883,2 145.820604347826,-38.716502,2 145.821261304348,-38.717121,2 145.82191826087,-38.71774,2 145.822575217391,-38.718359,2 145.823232173913,-38.718978,2 145.823889130435,-38.719597,2 145.824546086957,-38.720216,2 145.825203043478,-38.720835,2 145.82586,-38.721454,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#dark_green</styleUrl>
+                    <name>green B309 person 41</name>
+                    <description>Track no. 57</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.810786,-38.7071314375,2 145.810822,-38.707045875,2 145.810858,-38.7069603125,2 145.810894,-38.70687475,2 145.81093,-38.7067891875,2 145.810966,-38.706703625,2 145.811002,-38.7066180625,2 145.811038,-38.7065325,2 145.811074,-38.7064469375,2 145.81111,-38.706361375,2 145.811146,-38.7062758125,2 145.811182,-38.70619025,2 145.811218,-38.7061046875,2 145.811254,-38.706019125,2 145.81129,-38.7059335625,2 145.811326,-38.705848,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#purple</styleUrl>
+                    <name>green B490 person 46</name>
+                    <description>Track no. 65</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.8107655,-38.70720625,2 145.810781,-38.7071955,2 145.8107965,-38.70718475,2 145.810812,-38.707174,2 145.8108275,-38.70716325,2 145.810843,-38.7071525,2 145.8108585,-38.70714175,2 145.810874,-38.707131,2 145.8108895,-38.70712025,2 145.810905,-38.7071095,2 145.8109205,-38.70709875,2 145.810936,-38.707088,2 145.8109515,-38.70707725,2 145.810967,-38.7070665,2 145.8109825,-38.70705575,2 145.810998,-38.707045,2 145.8110135,-38.70703425,2 145.811029,-38.7070235,2 145.8110445,-38.70701275,2 145.81106,-38.707002,2 145.8110755,-38.70699125,2 145.811091,-38.7069805,2 145.8111065,-38.70696975,2 145.811122,-38.706959,2 145.8111375,-38.70694825,2 145.811153,-38.7069375,2 145.8111685,-38.70692675,2 145.811184,-38.706916,2 145.8111995,-38.70690525,2 145.811215,-38.7068945,2 145.8112305,-38.70688375,2 145.811246,-38.706873,2 145.8112615,-38.70686225,2 145.811277,-38.7068515,2 145.8112925,-38.70684075,2 145.811308,-38.70683,2 145.8113235,-38.70681925,2 145.811339,-38.7068085,2 145.8113545,-38.70679775,2 145.81137,-38.7067869999999,2 145.8113855,-38.7067762499999,2 145.811401,-38.7067654999999,2 145.8114165,-38.7067547499999,2 145.811432,-38.7067439999999,2 145.8114475,-38.7067332499999,2 145.811463,-38.7067224999999,2 145.8114785,-38.7067117499999,2 145.811493999999,-38.7067009999999,2 145.811509499999,-38.7066902499999,2 145.811524999999,-38.7066794999999,2 145.811540499999,-38.7066687499999,2 145.811555999999,-38.7066579999999,2 145.811571499999,-38.7066472499999,2 145.811586999999,-38.7066364999999,2 145.811602499999,-38.7066257499999,2 145.811617999999,-38.7066149999999,2 145.811633499999,-38.7066042499999,2 145.811648999999,-38.7065934999999,2 145.811664499999,-38.7065827499999,2 145.811679999999,-38.7065719999999,2 145.811695499999,-38.7065612499999,2 145.811710999999,-38.7065504999999,2 145.811726499999,-38.7065397499999,2 145.811741999999,-38.7065289999999,2 145.811757499999,-38.7065182499999,2 145.811772999999,-38.7065074999999,2 145.811788499999,-38.7064967499999,2 145.811803999999,-38.7064859999999,2 145.811819499999,-38.7064752499999,2 145.811834999999,-38.7064644999999,2 145.811850499999,-38.7064537499999,2 145.811866,-38.706443,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#pink</styleUrl>
+                    <name>green B361 person 50</name>
+                    <description>Track no. 70</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.810795902174,-38.7072463043478,2 145.810841804348,-38.7072756086957,2 145.810887706522,-38.7073049130435,2 145.810933608696,-38.7073342173913,2 145.81097951087,-38.7073635217391,2 145.811025413044,-38.707392826087,2 145.811071315217,-38.7074221304348,2 145.811117217391,-38.7074514347826,2 145.811163119565,-38.7074807391304,2 145.811209021739,-38.7075100434783,2 145.811254923913,-38.7075393478261,2 145.811300826087,-38.7075686521739,2 145.811346728261,-38.7075979565217,2 145.811392630435,-38.7076272608696,2 145.811438532609,-38.7076565652174,2 145.811484434783,-38.7076858695652,2 145.811530336957,-38.7077151739131,2 145.811576239131,-38.7077444782609,2 145.811622141305,-38.7077737826087,2 145.811668043478,-38.7078030869565,2 145.811713945652,-38.7078323913044,2 145.811759847826,-38.7078616956522,2 145.81180575,-38.707891,2 145.811851652174,-38.7079203043478,2 145.811897554348,-38.7079496086957,2 145.811943456522,-38.7079789130435,2 145.811989358696,-38.7080082173913,2 145.81203526087,-38.7080375217391,2 145.812081163044,-38.708066826087,2 145.812127065218,-38.7080961304348,2 145.812172967392,-38.7081254347826,2 145.812218869566,-38.7081547391304,2 145.812264771739,-38.7081840434783,2 145.812310673913,-38.7082133478261,2 145.812356576087,-38.7082426521739,2 145.812402478261,-38.7082719565218,2 145.812448380435,-38.7083012608696,2 145.812494282609,-38.7083305652174,2 145.812540184783,-38.7083598695652,2 145.812586086957,-38.7083891739131,2 145.812631989131,-38.7084184782609,2 145.812677891305,-38.7084477826087,2 145.812723793479,-38.7084770869565,2 145.812769695653,-38.7085063913044,2 145.812815597827,-38.7085356956522,2 145.8128615,-38.708565,2 145.812907402174,-38.7085943043478,2 145.812953304348,-38.7086236086957,2 145.812999206522,-38.7086529130435,2 145.813045108696,-38.7086822173913,2 145.81309101087,-38.7087115217392,2 145.813136913044,-38.708740826087,2 145.813182815218,-38.7087701304348,2 145.813228717392,-38.7087994347826,2 145.813274619566,-38.7088287391305,2 145.81332052174,-38.7088580434783,2 145.813366423914,-38.7088873478261,2 145.813412326088,-38.7089166521739,2 145.813458228261,-38.7089459565218,2 145.813504130435,-38.7089752608696,2 145.813550032609,-38.7090045652174,2 145.813595934783,-38.7090338695652,2 145.813641836957,-38.7090631739131,2 145.813687739131,-38.7090924782609,2 145.813733641305,-38.7091217826087,2 145.813779543479,-38.7091510869566,2 145.813825445653,-38.7091803913044,2 145.813871347827,-38.7092096956522,2 145.813917250001,-38.709239,2 145.813963152175,-38.7092683043479,2 145.814009054349,-38.7092976086957,2 145.814054956522,-38.7093269130435,2 145.814100858696,-38.7093562173913,2 145.81414676087,-38.7093855217392,2 145.814192663044,-38.709414826087,2 145.814238565218,-38.7094441304348,2 145.814284467392,-38.7094734347826,2 145.814330369566,-38.7095027391305,2 145.81437627174,-38.7095320434783,2 145.814422173914,-38.7095613478261,2 145.814468076088,-38.709590652174,2 145.814513978262,-38.7096199565218,2 145.814559880436,-38.7096492608696,2 145.81460578261,-38.7096785652174,2 145.814651684783,-38.7097078695653,2 145.814697586957,-38.7097371739131,2 145.814743489131,-38.7097664782609,2 145.814789391305,-38.7097957826087,2 145.814835293479,-38.7098250869566,2 145.814881195653,-38.7098543913044,2 145.814927097827,-38.7098836956522,2 145.814973,-38.709913,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#brown</styleUrl>
+                    <name>green B376 person 54</name>
+                    <description>Track no. 74</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.810739238889,-38.7071973222222,2 145.810728477778,-38.7071776444444,2 145.810717716667,-38.7071579666667,2 145.810706955556,-38.7071382888889,2 145.810696194445,-38.7071186111111,2 145.810685433333,-38.7070989333333,2 145.810674672222,-38.7070792555555,2 145.810663911111,-38.7070595777778,2 145.81065315,-38.7070399,2 145.810642388889,-38.7070202222222,2 145.810631627778,-38.7070005444444,2 145.810620866667,-38.7069808666667,2 145.810610105556,-38.7069611888889,2 145.810599344445,-38.7069415111111,2 145.810588583334,-38.7069218333333,2 145.810577822222,-38.7069021555555,2 145.810567061111,-38.7068824777778,2 145.8105563,-38.7068628,2 145.810545538889,-38.7068431222222,2 145.810534777778,-38.7068234444444,2 145.810524016667,-38.7068037666666,2 145.810513255556,-38.7067840888889,2 145.810502494445,-38.7067644111111,2 145.810491733334,-38.7067447333333,2 145.810480972223,-38.7067250555555,2 145.810470211111,-38.7067053777778,2 145.81045945,-38.7066857,2 145.810448688889,-38.7066660222222,2 145.810437927778,-38.7066463444444,2 145.810427166667,-38.7066266666666,2 145.810416405556,-38.7066069888889,2 145.810405644445,-38.7065873111111,2 145.810394883334,-38.7065676333333,2 145.810384122223,-38.7065479555555,2 145.810373361112,-38.7065282777777,2 145.8103626,-38.7065086,2 145.810351838889,-38.7064889222222,2 145.810341077778,-38.7064692444444,2 145.810330316667,-38.7064495666666,2 145.810319555556,-38.7064298888888,2 145.810308794445,-38.7064102111111,2 145.810298033334,-38.7063905333333,2 145.810287272223,-38.7063708555555,2 145.810276511112,-38.7063511777777,2 145.810265750001,-38.7063315,2 145.810254988889,-38.7063118222222,2 145.810244227778,-38.7062921444444,2 145.810233466667,-38.7062724666666,2 145.810222705556,-38.7062527888888,2 145.810211944445,-38.7062331111111,2 145.810201183334,-38.7062134333333,2 145.810190422223,-38.7061937555555,2 145.810179661112,-38.7061740777777,2 145.810168900001,-38.7061543999999,2 145.81015813889,-38.7061347222222,2 145.810147377778,-38.7061150444444,2 145.810136616667,-38.7060953666666,2 145.810125855556,-38.7060756888888,2 145.810115094445,-38.7060560111111,2 145.810104333334,-38.7060363333333,2 145.810093572223,-38.7060166555555,2 145.810082811112,-38.7059969777777,2 145.810072050001,-38.7059772999999,2 145.81006128889,-38.7059576222222,2 145.810050527779,-38.7059379444444,2 145.810039766667,-38.7059182666666,2 145.810029005556,-38.7058985888888,2 145.810018244445,-38.705878911111,2 145.810007483334,-38.7058592333333,2 145.809996722223,-38.7058395555555,2 145.809985961112,-38.7058198777777,2 145.809975200001,-38.7058001999999,2 145.80996443889,-38.7057805222221,2 145.809953677779,-38.7057608444444,2 145.809942916668,-38.7057411666666,2 145.809932155556,-38.7057214888888,2 145.809921394445,-38.705701811111,2 145.809910633334,-38.7056821333333,2 145.809899872223,-38.7056624555555,2 145.809889111112,-38.7056427777777,2 145.809878350001,-38.7056230999999,2 145.80986758889,-38.7056034222221,2 145.809856827779,-38.7055837444444,2 145.809846066668,-38.7055640666666,2 145.809835305557,-38.7055443888888,2 145.809824544445,-38.705524711111,2 145.809813783334,-38.7055050333332,2 145.809803022223,-38.7054853555555,2 145.809792261112,-38.7054656777777,2 145.809781500001,-38.7054459999999,2 145.80977073889,-38.7054263222221,2 145.809759977779,-38.7054066444444,2 145.809749216668,-38.7053869666666,2 145.809738455557,-38.7053672888888,2 145.809727694446,-38.705347611111,2 145.809716933334,-38.7053279333332,2 145.809706172223,-38.7053082555555,2 145.809695411112,-38.7052885777777,2 145.809684650001,-38.7052688999999,2 145.80967388889,-38.7052492222221,2 145.809663127779,-38.7052295444443,2 145.809652366668,-38.7052098666666,2 145.809641605557,-38.7051901888888,2 145.809630844446,-38.705170511111,2 145.809620083335,-38.7051508333332,2 145.809609322224,-38.7051311555554,2 145.809598561112,-38.7051114777777,2 145.809587800001,-38.7050917999999,2 145.80957703889,-38.7050721222221,2 145.809566277779,-38.7050524444443,2 145.809555516668,-38.7050327666666,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#dark_blue</styleUrl>
+                    <name>green B184 person 55</name>
+                    <description>Track no. 75</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.81075,-38.707217,2 145.810788636364,-38.7071798636364,2 145.810827272727,-38.7071427272727,2 145.810865909091,-38.7071055909091,2 145.810904545455,-38.7070684545454,2 145.810943181818,-38.7070313181818,2 145.810981818182,-38.7069941818182,2 145.811020454545,-38.7069570454545,2 145.811059090909,-38.7069199090909,2 145.811097727273,-38.7068827727273,2 145.811136363636,-38.7068456363636,2 145.811175,-38.7068085,2 145.811213636364,-38.7067713636363,2 145.811252272727,-38.7067342272727,2 145.811290909091,-38.7066970909091,2 145.811329545454,-38.7066599545454,2 145.811368181818,-38.7066228181818,2 145.811406818182,-38.7065856818182,2 145.811445454545,-38.7065485454545,2 145.811484090909,-38.7065114090909,2 145.811522727273,-38.7064742727272,2 145.811561363636,-38.7064371363636,2 145.8116,-38.7064,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                                    
+                <Placemark>
+                    <visibility>0</visibility>            
+                    <open>0</open> 
+                    <styleUrl>#red</styleUrl>
+                    <name>green B392 person 57</name>
+                    <description>Track no. 77</description>
+                    <LineString>
+                        <extrude>true</extrude>
+                        <tessellate>true</tessellate>
+                        <altitudeMode>clampToGround</altitudeMode> 
+                        <coordinates>
+                            145.8109,-38.707633,2 145.810881347368,-38.7076077026316,2 145.810862694737,-38.7075824052632,2 145.810844042105,-38.7075571078947,2 145.810825389474,-38.7075318105263,2 145.810806736842,-38.7075065131579,2 145.810788084211,-38.7074812157895,2 145.810769431579,-38.707455918421,2 145.810750778947,-38.7074306210526,2 145.810732126316,-38.7074053236842,2 145.810713473684,-38.7073800263158,2 145.810694821053,-38.7073547289473,2 145.810676168421,-38.7073294315789,2 145.810657515789,-38.7073041342105,2 145.810638863158,-38.7072788368421,2 145.810620210526,-38.7072535394736,2 145.810601557895,-38.7072282421052,2 145.810582905263,-38.7072029447368,2 145.810564252632,-38.7071776473684,2 145.8105456,-38.7071523499999,2 145.810526947368,-38.7071270526315,2 145.810508294737,-38.7071017552631,2 145.810489642105,-38.7070764578947,2 145.810470989474,-38.7070511605262,2 145.810452336842,-38.7070258631578,2 145.81043368421,-38.7070005657894,2 145.810415031579,-38.706975268421,2 145.810396378947,-38.7069499710526,2 145.810377726316,-38.7069246736841,2 145.810359073684,-38.7068993763157,2 145.810340421053,-38.7068740789473,2 145.810321768421,-38.7068487815789,2 145.810303115789,-38.7068234842104,2 145.810284463158,-38.706798186842,2 145.810265810526,-38.7067728894736,2 145.810247157895,-38.7067475921052,2 145.810228505263,-38.7067222947367,2 145.810209852631,-38.7066969973683,2 145.8101912,-38.7066716999999,2 145.810172547368,-38.7066464026315,2 145.810153894737,-38.706621105263,2 145.810135242105,-38.7065958078946,2 145.810116589474,-38.7065705105262,2 145.810097936842,-38.7065452131578,2 145.81007928421,-38.7065199157893,2 145.810060631579,-38.7064946184209,2 145.810041978947,-38.7064693210525,2 145.810023326316,-38.7064440236841,2 145.810004673684,-38.7064187263156,2 145.809986021053,-38.7063934289472,2 145.809967368421,-38.7063681315788,2 145.809948715789,-38.7063428342104,2 145.809930063158,-38.706317536842,2 145.809911410526,-38.7062922394735,2 145.809892757895,-38.7062669421051,2 145.809874105263,-38.7062416447367,2 145.809855452631,-38.7062163473683,2 145.8098368,-38.7061910499998,2 145.809818147368,-38.7061657526314,2 145.809799494737,-38.706140455263,2 145.809780842105,-38.7061151578946,2 145.809762189474,-38.7060898605261,2 145.809743536842,-38.7060645631577,2 145.80972488421,-38.7060392657893,2 145.809706231579,-38.7060139684209,2 145.809687578947,-38.7059886710524,2 145.809668926316,-38.705963373684,2 145.809650273684,-38.7059380763156,2 145.809631621052,-38.7059127789472,2 145.809612968421,-38.7058874815787,2 145.809594315789,-38.7058621842103,2 145.809575663158,-38.7058368868419,2 145.809557010526,-38.7058115894735,2 145.809538357895,-38.705786292105,2 145.809519705263,-38.7057609947366,2 145.809501052631,-38.7057356973682,2 145.8094824,-38.7057103999998,2 145.809463747368,-38.7056851026313,2 145.809445094737,-38.7056598052629,2 145.809426442105,-38.7056345078945,2 145.809407789473,-38.7056092105261,2 145.809389136842,-38.7055839131577,2 145.80937048421,-38.7055586157892,2 145.809351831579,-38.7055333184208,2 145.809333178947,-38.7055080210524,2 145.809314526316,-38.705482723684,2 145.809295873684,-38.7054574263155,2 145.809277221052,-38.7054321289471,2 145.809258568421,-38.7054068315787,2 145.809239915789,-38.7053815342103,2 145.809221263158,-38.7053562368418,2 145.809202610526,-38.7053309394734,2 145.809183957895,-38.705305642105,2 145.809165305263,-38.7052803447366,2 145.809146652631,-38.7052550473681,2 145.809128,-38.7052297499997,2 145.809109347368,-38.7052044526313,2 145.809090694737,-38.7051791552629,2 145.809072042105,-38.7051538578944,2 145.809053389473,-38.705128560526,2 145.809034736842,-38.7051032631576,2 145.80901608421,-38.7050779657892,2 145.808997431579,-38.7050526684207,2 145.808978778947,-38.7050273710523,2 145.808960126316,-38.7050020736839,2 145.808941473684,-38.7049767763155,2 145.808922821052,-38.7049514789471,2 145.808904168421,-38.7049261815786,2 145.808885515789,-38.7049008842102,2 145.808866863158,-38.7048755868418,2 145.808848210526,-38.7048502894734,2 145.808829557894,-38.7048249921049,2                             
+                        </coordinates>
+                    </LineString>
+                </Placemark>
+                                        
+        </Folder>
+                
+        <LookAt>
+            <longitude>145.81734477895</longitude>            
+            <latitude>-38.713139496052</latitude>             
+            <altitude>0</altitude>               
+            <heading>0</heading>               
+            <tilt>45</tilt>
+            <range>1098</range>                    
+            <altitudeMode>clampToGround</altitudeMode> 
+        </LookAt>
+    </Document>
+</kml>

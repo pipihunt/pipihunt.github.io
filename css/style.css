@@ -1,0 +1,18 @@
+console.log(“hello world!”);
+
+body {
+font-family:Arial;
+}
+	
+	#wrapper {
+	width: 600px;
+	margin: 15px auto;
+	}
+
+	#map {
+	height: 700px;
+	width: 1400px;
+	margin: 15px auto;
+	border: 1px solid #AAA;
+	}
+	
