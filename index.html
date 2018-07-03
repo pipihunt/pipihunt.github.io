@@ -11,17 +11,29 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.2/Control.FullScreen.min.css">
         <link rel="stylesheet" href="css/leaflet.timedimension.control2.css" />
         <link rel="stylesheet" href="css/style.css" />
+		
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        
     </head>
     <body>
-        <div class="container">
-            <div id="header">
-                <h1>The Great Pipi Hunt</h1>
-                <h2>Pipi movement along Venus Bay (Jan-April 2017)</h2>
-            </div>
-            <div id="map"></div>
-        </div>
-        
-        <script type="text/javascript" src="https://cdn.rawgit.com/tryone144/dateFormat/master/date.format.js"></script>
+		
+		<div id="wrap">
+			
+		
+			
+			<div id="header">
+				<h1>The Great Pipi Hunt</h1>
+			</div>
+		
+			<div id="nav">
+				<h2>Pipi Movement Across Venus Bay (Jan-April 2017)</h2>
+			</div>
+		
+			<div id="main">
+				<div id="map"></div>
+			</div>
+			
+		<script type="text/javascript" src="https://cdn.rawgit.com/tryone144/dateFormat/master/date.format.js"></script>
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.js"></script>
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/1.4.2/Control.FullScreen.min.js"></script>
         <script type="text/javascript" src="https://cdn.rawgit.com/nezasa/iso8601-js-period/master/iso8601.min.js"></script>
@@ -38,20 +50,53 @@
         <script type="text/javascript" src="js/formatDate.js"></script>
         <script type="text/javascript" src="js/gpx.js"></script>
         <script type="text/javascript" src="js/example9.js"></script>
+        <script type="text/javascript" src="js/function.js"></script>
         <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+		
+		
+			<div id="sidebar">
+				 <button onclick="myTravel(); myTraveldes();" type="button1" id="button1">Travel</button> 
+				 <button onclick="myMovement(); myMovementdes();" type="button2" id="button2">Movement</button> 
+				 <button onclick="myCapture(); myCapturedes();" type="button3" id="button3">Capture</button> 
 
-        <div class="container">
-            <div id="Body">
-                <h2>Graphs and stuffs</h2>
-                Max distance moved cummulative over time,
+				 <div id="travel" style="display:none;">
+					 <h3>Title</h3>
+					 <a href="#" id="pop"><img id="travelImg" src="img/travel.png" alt="Cumulative Distance Travelled by the Pipi's">
+					 </a>
+				 </div>
+				 
+				 <div id="movement" style="display:none;">
+					 <h3>Title</h3>
+					 <img id="movementImg" src="img/movement.png" alt="Frequency Distribution of Distance Travelled by the Pipi's">
+				 </div>
+				 
+				 <div id="capture" style="display:none;">
+					 <h3>Title</h3>
+					 <img id="captureImg" src="img/capture.png" alt="Frequency Distriubution of Capture Date">
+				 </div>
+			</div>
+			
+			<div id="description">
+				 <div id="travelDes" style="display:none;">
+					 <p class="travel">travel description</p>
+				 </div>
+				 <div id="movementDes" style="display:none;">
+					 <p class="movement">movement description</p>
+				 </div>
+				 <div id="captureDes" style="display:none;">
+					 <p class="capture">capture description</p>
+				 </div>
+			</div>
+				
+			<div id="footer">
 
-				# caught over time (cummulative),
 
-				Frequency distance curve thing.
-            </div>
-        </div>
+			</div>
+		
+		</div>
 
-
-
+		
+		
+		
     </body>
 </html>

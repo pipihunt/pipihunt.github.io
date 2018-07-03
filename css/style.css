@@ -1,18 +1,214 @@
-console.log(“hello world!”);
 
-body {
-font-family:Arial;
+html, body {
+	padding:0px;
+	margin:0px;
+	top: 0px;
+	font-family:Arial;
 }
-	
-	#wrapper {
-	width: 600px;
-	margin: 15px auto;
-	}
 
-	#map {
+#wrap {
+    width:auto;
+    margin:0 auto;
+}
+
+#header {
+	background: url("../img/horizon.jpg") no-repeat center; 
+	background-size: 100% 100%;
+	height: 200px;
+}         
+
+#nav {
+	background:;
+}
+
+#main {
+	float:left;
+	width:65%;
+	background:;
+	position: relative;
 	height: 700px;
-	width: 1400px;
+}
+
+#map {
+	position: absolute;
+	width: 96%;
+	height: 96%;
 	margin: 15px auto;
+	margin-left: 1vw;
 	border: 1px solid #AAA;
-	}
+}
+
+#sidebar {
+    float:right;
+	width:35%;
+	background:;
+	position: relative;
+	height: 500px;
+}
+
+
+#travelImg {
+	position: absolute;
+	width: 94%;
+	height: 74%;
+	margin: 15px auto;
+	margin-left: 0.5vw;
+	border: 1px solid #AAA;
+	cursor: pointer;
+    transition: 0.3s;
+}
+/*#travelImg:hover {opacity: 0.7;}*/
+
+#movementImg {
+	position: absolute;
+	width: 94%;
+	height: 74%;
+	margin: 15px auto;
+	margin-left: 0.5vw;
+	border: 1px solid #AAA;
+	cursor: pointer;
+    transition: 0.3s;
+}
+/*#movementImg:hover {opacity: 0.7;}*/
+
+#captureImg {
+	position: absolute;
+	width: 94%;
+	height: 74%;
+	margin: 15px auto;
+	margin-left: 0.5vw;
+	border: 1px solid #AAA;
+	cursor: pointer;
+    transition: 0.3s;
+}
+/*#captureImg:hover {opacity: 0.7;}*/
+
+#description {
+	float: right;
+	width:35%;
+	background:;
+	position: relative;
+	height: 200px;
+}
+
+#footer {
+    clear:both;
+    background:;
+}
+
+
+#nav ul {
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+#nav li {
+    display:inline;
+    margin:0;
+    padding:0;
+}
+
+
+    * html #footer {
+    height:1px;
+    }
+
 	
+h1 {
+    color: black;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 0px;
+    line-height: 200px;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+h3 {
+    color: black;
+    clear:both;
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 8px;
+    font-size: 20px;
+    line-height: 0px;
+}
+
+p.travel {
+	color: black;
+    text-align: center;
+    border-style: solid;
+    background-color: #AAA;
+    border-color: #AAA;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 0.5vw;
+    margin-right: 1.5vw;
+    
+}
+
+p.movement {
+	color: black;
+    text-align: center;
+    border-style: solid;
+    background-color: #AAA;
+    border-color: #AAA;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 0.5vw;
+    margin-right: 1.5vw;
+    
+}
+
+p.capture {
+	color: black;
+    text-align: center;
+    border-style: solid;
+    background-color: #AAA;
+    border-color: #AAA;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 0.5vw;
+    margin-right: 1.5vw;
+    
+}
+
+p {
+	text-align: center;
+}
+
+
+button {
+    background-color: #555555; 
+    border: 2px solid #555555;
+    border-radius: 4px;
+    float: left;
+    color: white;
+    width: 30.5%;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 0.5vw;
+    margin-top: 15px;
+    -webkit-transition-duration: 0.6s;
+    transition-duration: 0.6s;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: black;
+    color: white; 
+    border: 2px solid black;
+}
+
+button:focus {
+	background-color: green;
+}
+
